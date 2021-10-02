@@ -1,2 +1,2 @@
-* (Introduction)[introduction]
-	* (Welcome)[introduction/welcome]
+* [Introduction](introduction)
+	* [Welcome](introduction/welcome)
