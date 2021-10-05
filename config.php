@@ -5,6 +5,6 @@
 	$DEBUG = FALSE;
 
 	$showLogoInIndex = TRUE;
-	$showTitleInIndex = TRUE;
+	$showTitleInIndex = FALSE;
 
 ?>
