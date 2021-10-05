@@ -4,4 +4,7 @@
 	$title = 'Video Trimmer';
 	$DEBUG = FALSE;
 
+	$showLogoInIndex = TRUE;
+	$showTitleInIndex = TRUE;
+
 ?>
