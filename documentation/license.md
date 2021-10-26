@@ -2,7 +2,7 @@
 
 > For a commentary on the license's text (including a breakdown of permissions, limitations and conditions), see the project's [license page on GitHub](https://github.com/rendeer-pl/VideoTrimmer/blob/main/LICENSE).
 
-MIT License
+## MIT License
 
 Copyright (c) 2021 Rendeer
 

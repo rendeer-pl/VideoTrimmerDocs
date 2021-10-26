@@ -11,6 +11,7 @@ You can open a video file in three ways:
 
 ## Selecting Trim Range
 With a file loaded, you can either click on the **Start** and **End** timecodes to modify them manually. Alternatively, you use the video player to navigate the timeline to the desired Start and End points and then click on the triangle buttons next to the timecodes to use the current position of the video player as Start or End:
+
 ![Setting Start and End positions](https://soft.rendeer.pl/VideoTrimmer/documentation/assets/VideoTrimmer-Start-End.png)
 
 If you don't want to trim the file, you can leave the timecodes at their defaults: the Start is 00:00:00 and End is equal to the file's original duration.
@@ -40,6 +41,7 @@ Please note that setting this to 0 will disable the option and a default bitrate
 
 ## Trimming the File
 Once you are happy with the settings, you can click **TRIM VIDEO** to start the trimming process. A new window will be displayed showing current progress:
+
 ![Progress window](https://soft.rendeer.pl/VideoTrimmer/documentation/assets/VideoTrimmer-Progress.png)
 
 Please note an exact progress will only be displayed if you chose to recompress the file.
