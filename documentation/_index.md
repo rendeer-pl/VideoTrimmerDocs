@@ -1,3 +1,7 @@
 * [Overview](overview)
-	* [Introduction](overview/introduction)
+	* [Feature List](overview/feature_list)
 	* [Using the App](overview/using_the_app)
+* [Releases](releases)
+* [Contributing](contributing)
+* [Reporting Issues](reporting_issues)
+* [License](license)
