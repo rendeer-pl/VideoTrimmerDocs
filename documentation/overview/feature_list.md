@@ -20,4 +20,4 @@
 ## Supported File Extensions
 | Video | Audio |
 |:---:|:---:|
-|.mp4<br/>.mpg<br/>.mpeg<br/>.wmv<br/>.avi<br/>.mov<br/>.mts<br/>.m2ts<br/>.vob|.mp3<br/>.wav<br/>.aiff|
+|.mp4<br/>.mkv<br/>.mpg<br/>.mpeg<br/>.wmv<br/>.avi<br/>.mov<br/>.mts<br/>.m2ts<br/>.vob|.mp3<br/>.wav<br/>.aiff|
