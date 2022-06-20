@@ -1,7 +1,7 @@
 # Using the App
 
 ## Prerequisites
-In order to run the app, the `FFmpeg.exe` file needs to be placed in the same directory as `VideoTrimmer.exe`. If you don't have `FFmpeg.exe`, you can download it from https://ffmpeg.org.
+In order to manipulate videos, Video Trimmer uses the [FFmpeg](https://ffmpeg.org) library. Video Trimmer will suggest downloading it automatically when you launch the app for the first time. If you decline, you will need to download it manually from https://ffmpeg.org and place the `FFmpeg.exe` file in the same directory as `VideoTrimmer.exe`.
 
 ## Opening Video Files
 You can open a video file in three ways:
@@ -10,9 +10,12 @@ You can open a video file in three ways:
 1. By clicking the "Select video" button in the top left corner of the Video Trimmer window and picking your file through the system file picking dialog.
 
 ## Selecting Trim Range
-With a file loaded, you can either click on the **Start** and **End** timecodes to modify them manually. Alternatively, you use the video player to navigate the timeline to the desired Start and End points and then click on the triangle buttons next to the timecodes to use the current position of the video player as Start or End:
-
+With a file loaded, you can adjust the trim range in several ways:
+1. by clicking on the **Start** and **End** text boxes to modify the values manually,
+1. by moving the video player thumb into a desired position and clicking on a triangle button next to the **Start** and **End** text boxes to use the current position of the video player as Start or End:
 ![Setting Start and End positions](https://soft.rendeer.pl/VideoTrimmer/documentation/assets/VideoTrimmer-Start-End.png)
+1. by moving the video player thumb into a desired position and using [keyboard shortcuts](https://soft.rendeer.pl/VideoTrimmer/overview/keyboard_shortcuts) **[** or **]** to use the current position of the video player as Start or End,
+1. by dragging the Start and End range markers located below the timeline.
 
 If you don't want to trim the file, you can leave the timecodes at their defaults: the Start is 00:00:00 and End is equal to the file's original duration.
 

@@ -1,7 +1,7 @@
 # Feature List
 
 * Opening videos with a visual preview,
-* Ability to specify in and out points via manual textbox entry,
+* Ability to specify in and out points,
 * Option to remove audio from a video,
 * Trimming videos in two ways:
     * **Without reencoding**, which preserves 100% of the quality of the source video, at the expense of not being able to precisely adjust the In and Out points (the video will be trimmed at previous keyframes). This is the fastest option, as the duration of the trimming is only limited by read and write speeds of the hard drive. As a result, processing most videos takes mere seconds.

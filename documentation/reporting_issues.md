@@ -2,8 +2,4 @@
 If you think the app is missing an important feature, or one of the implemented features contains a bug, you can create an issue in the GitHub's [Issue tracker](https://github.com/rendeer-pl/VideoTrimmer/issues).
 
 ## Information to Include in the Issue Description
-1. What are the steps to reproduce the incorrect behavior?
-1. What was the result that you expected?
-1. What actually happens instead?
-
-Please be as descriptive as necessary and attach files wherever helpful. Thank you for your time!
+Whenever creating a new Issue, GitHub will recommend using one of predefined templates. Please select the most appropriate template and be as descriptive as necessary. It might also be helpful to attach files like screenshots or problematic videos. Thank you for your time!

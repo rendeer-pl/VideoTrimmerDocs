@@ -7,6 +7,12 @@ All Video Trimmer releases can be downloaded from [GitHub](https://github.com/re
 
 ## Change Logs
 
+### 1.1.1.220620
+* If the required FFmpeg executable is not found, the app will now suggest downloading it automatically,
+* The timeline now includes markers representing the start and end timecode. Both the markers and the timeline thumb can now be dragged to adjust the range,
+* Added basic keyboard shortcuts and improved keyboard navigation,
+* Additional visual improvements and bugfixes.
+
 ### 1.1.0.220605
 * Enabled support for MKV files,
 * Fixed positioning of UI elements, which makes it possible to resize the main window. The default size has been increased to properly accommodate 16:9 videos,

@@ -1,6 +1,7 @@
 * [Overview](overview)
 	* [Feature List](overview/feature_list)
 	* [Using the App](overview/using_the_app)
+	* [Keyboard Shortcuts](overview/keyboard_shortcuts)
 * [Releases](releases)
 * [Contributing](contributing)
 * [Reporting Issues](reporting_issues)

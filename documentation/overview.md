@@ -5,7 +5,7 @@ Video Trimmer is a standalone Graphical user interface (GUI) for FFmpeg designed
 
 ## Requirements
 * Video Trimmer requires Windows 10 or newer with support for .net applications.
-* In order to run properly, Video Trimmer requries `FFmpeg.exe` to be placed in the same directory as `VideoTrimmer.exe`. If you don't have `FFmpeg.exe`, you can download it from https://ffmpeg.org.
+* In order to manipulate videos, Video Trimmer uses the [FFmpeg](https://ffmpeg.org) library. Video Trimmer will suggest downloading it automatically when you launch the app for the first time. If you decline, you will need to download it manually from https://ffmpeg.org and place the `FFmpeg.exe` file in the same directory as `VideoTrimmer.exe`.
 
 ## Downloads
 The app can be downloaded from [GitHub](https://github.com/rendeer-pl/VideoTrimmer/releases/latest/download/VideoTrimmer.exe). Please see the [Releases](https://soft.rendeer.pl/VideoTrimmer/releases) page for more info and changelists.
