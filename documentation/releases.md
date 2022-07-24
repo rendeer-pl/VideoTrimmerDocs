@@ -7,6 +7,12 @@ All Video Trimmer releases can be downloaded from [GitHub](https://github.com/re
 
 ## Change Logs
 
+### 1.1.2.220724
+* The position of range markers will now properly update when resizing the window,
+* The position of range markers will now properly update when opening a file through start argument ("Open with..."),
+* Fixed a bug with flickering taskbar progress indicator on Windows 11,
+* Visual improvements.
+
 ### 1.1.1.220620
 * If the required FFmpeg executable is not found, the app will now suggest downloading it automatically,
 * The timeline now includes markers representing the start and end timecode. Both the markers and the timeline thumb can now be dragged to adjust the range,
@@ -30,7 +36,7 @@ All Video Trimmer releases can be downloaded from [GitHub](https://github.com/re
 
 ### 0.2.8.200218
 * Added a video player with visual timecode picker,
-* "Handler_name" metadata is now be cleared in each trimmed file,
+* "Handler_name" metadata is now cleared in each trimmed file,
 * Fixed a bug that caused trimming to fail if calculated bitrate contained a decimal point,
 * Fixed a bug where dragging an unsupported file didn't make the window's background red,
 * Added protection for unexpected FFmpeg output.
